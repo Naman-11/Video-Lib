@@ -1,14 +1,41 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# Video Library
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+An online video library with the functionality to watch and search videos, built using React JS with Material UI 5.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+## Table of Contents
 
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
 
-💻 coding Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+## Features
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+- Watch videos in a user-friendly interface.
+- Search for videos using keywords.
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/video-library.git
+  
+
+2. Navigate to the project directory:
+   ```bash
+   cd video-library
+
+3. Install dependencies:
+    ```bash
+    npm install
+
+4. Usage
+After completing the installation steps, you can start the development server:
+   ```bash
+    npm start
+Visit http://localhost:3000 in your web browser to view the application.
